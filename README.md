@@ -2,9 +2,6 @@
 Results-driven Junior Frontend Developer with experience in launching a product using HTML/CSS/JS, React, Vite, and Tailwind. Skilled in building engaging and responsive user interfaces, and passionate about creating intuitive web experiences that enhance user engagement. Excited to collaborate on projects that leverage emerging technologies to deliver innovative solutions.
 
 
-## 🌐 Socials:
-[![LinkedIn]([https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white](https://www.linkedin.com/in/ratchapon-ngamdan-b251171a1/))]
-
 # 💻 Tech Stack:
 #### Languages
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
