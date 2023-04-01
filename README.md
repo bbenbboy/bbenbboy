@@ -3,7 +3,7 @@ Results-driven Junior Frontend Developer with experience in launching a product 
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)(linkedin.com/in/ratchapon-ngamdan-b251171a1/) ]
+[![LinkedIn]([https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white](https://www.linkedin.com/in/ratchapon-ngamdan-b251171a1/))]
 
 # 💻 Tech Stack:
 #### Languages
